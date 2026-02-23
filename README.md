@@ -6,6 +6,14 @@ The goal of this journey is to strengthen problem-solving skills, understand alg
 
 ---
 
+## Cheat sheet
+
+* 1 loop - O(n)
+* 2 nested loop - O(n^2)
+* input size reduced by half - O(log n);
+
+---
+
 ## 📚 Course Overview
 
 This course covers:
